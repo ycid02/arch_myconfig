@@ -9,7 +9,6 @@ xfce4-screenshooter
 xfce4-session
 xfce4-settings
 xfce4-taskmanager
-xfce4-terminal
 xfce4-whiskermenu-plugin
 xfce4-windowck-plugin
 xfconf
@@ -17,3 +16,6 @@ xfdesktop
 xfsprogs
 xfwm4
 xfwm4-themes
+konsole
+qt5ct
+qt6ct
