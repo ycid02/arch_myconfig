@@ -19,3 +19,4 @@ xfwm4-themes
 konsole
 qt5ct
 qt6ct
+qtconfig-qt4
